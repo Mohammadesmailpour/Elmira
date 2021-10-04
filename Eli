@@ -1,0 +1,3 @@
+git remote add git@github.com: Mohammadesmailpour/mehrad.git
+source 
+git@github.com:Mohammadesmailpour/mehrad.git شعبه git -M main git push -u اصلی اصلی
